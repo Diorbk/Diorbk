@@ -1,4 +1,5 @@
 <h1>Hey, I'm Dior!</h1>
+Im a recent Software Engineering graduate from Cardiff University!
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
