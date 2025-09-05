@@ -20,6 +20,9 @@ Im a recent Software Engineering graduate from Cardiff University!
 
 - <b>File Reader App (Java Practice File handling)</b>
   - [File reader App](https://github.com/Diorbk/fileread-app-practice)
+ 
+- <b>Desk Space Booking System (SQL Project)</b>
+  - [Desk Space Booking System](https://github.com/Diorbk/DeskspaceBooking)
 
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
