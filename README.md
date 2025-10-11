@@ -6,8 +6,8 @@ Im a recent Software Engineering graduate from Cardiff University!
 - <b>Arctic Glacial Monitoring system (Laravel + Vue)</b>
   - [Cardiff Earth Project](https://github.com/Diorbk/cardiff-earth)
 
-- <b>On Boarding Platform (Springboot + Maria DB)</b>
-  - [On Boarding Project](https://github.com/Diorbk/onboarding-hr-platform)
+- <b> HRMS (Springboot + Maria DB)</b>
+  - [HR Management System](https://github.com/Diorbk/onboarding-hr-platform)
 
 - <b>Interactive Fiction Game: Toxic Ronin (Mongo DB + Express JS + React JS + Node JS)</b>
   - [Interactive Fiction Game](https://github.com/Diorbk/interactive-fiction-game)
